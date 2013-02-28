@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="err_empty_psk">Please enter IPSec pre-shared key.</string>
+    <string name="err_empty_secret">Please enter L2TP secret.</string>
+    <string name="err_no_active_vpn">There is no active VPN.</string>
+    <string name="err_no_writable_storage">Failed to access external storage.</string>
+    <string name="err_empty_name">Please enter a VPN name.</string>
+    <string name="err_duplicated_profile_name">The VPN name \'%s\' already exists.</string>
+    <string name="err_exp_write_storage_failed">Failed to access external storage.</string>
+    <string name="err_exp_failed">Backup failed.</string>
+    <string name="err_imp_nodata">Backup data not found on external storage.</string>
+    <string name="err_imp_failed">Restore failed.</string>
+    <string name="vpn_pptp">VPN\&quot;PPTP\&quot;</string>
+    <string name="vpn_l2tp">VPN\&quot;L2TP\&quot;</string>
+    <string name="vpn_l2tp_psk">VPN\&quot;L2TP/IPSec PSK\&quot;</string>
+    <string name="vpn_pptp_info">Point-to-Point Tunneling Protocol</string>
+    <string name="vpn_l2tp_info">Layer 2 Tunneling Protocol</string>
+    <string name="vpn_l2tp_psk_info">Pre-shared key based L2TP/IPSec VPN</string>
+</resources>
