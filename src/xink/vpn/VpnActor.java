@@ -131,7 +131,7 @@ public class VpnActor {
         checkStatus(p);
     }
 
-    private void checkStatus(final VpnProfile p) {
+    public void checkStatus(final VpnProfile p) {
         Log.i(TAG, "check status of vpn: " + p);
 
         final ConditionVariable cv = new ConditionVariable();
